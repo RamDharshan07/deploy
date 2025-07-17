@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+.nav{
+  display: flex;
+  background-color: black;
+  justify-content:space-between ;
+  align-items: center;
+  color: white;
+  padding: 5px;
+
+}
+.left{
+  display: flex;
+  gap:20px;
+  color: white;
+}
+.butto{
+  background: green;
+  padding: 4px;
+}
